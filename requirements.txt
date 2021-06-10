@@ -55,7 +55,7 @@ defusedxml==0.5.0
 descartes==1.1.0
 dill==0.2.9
 distributed==1.25.3
-Django==1.11.20
+Django==2.2.24
 dlib==19.16.0
 dm-sonnet==1.23
 docutils==0.14
