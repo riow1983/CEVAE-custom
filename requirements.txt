@@ -42,7 +42,7 @@ contextlib2==0.5.5
 convertdate==2.1.3
 crcmod==1.7
 cufflinks==0.14.6
-cvxopt==1.2.3
+cvxopt==1.2.7
 cvxpy==1.0.15
 cycler==0.10.0
 cymem==2.0.2
